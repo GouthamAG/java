@@ -1,4 +1,5 @@
-package java;
+package src.practice.oop;
+
 public class Person {
 
     String name;

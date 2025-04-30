@@ -1,4 +1,5 @@
-package java;
+package src.practice.basic;
+
 public class GFG {
     public static void main(String[] args){
         int t = 3;

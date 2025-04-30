@@ -1,4 +1,5 @@
-package java;
+package src.practice.basic;
+
 class Car{
 
     String model;
