@@ -1,4 +1,4 @@
-package src.practice.arraynandstring;
+package src.practice.string;
 
 public class SubString {
     public static void main(String[] args) {
